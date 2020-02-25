@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fb7cd03-35eb-4caf-8f0a-9249162ceca8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XnV1Ai6Lhu6IK2IwHkgnNZkPAT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Gradle.CalculatorTest">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="SimpleCalculator.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CalculatorTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculatorTest.TestAdd" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CalculatorTest.TestAdd&quot; --stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculatorTest.TestAddmorethentwo" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CalculatorTest.TestAddmorethentwo&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculatorTest.Testmultiply" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CalculatorTest.Testmultiply&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculatorTest.Testmultiplymorethantwo" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CalculatorTest.Testmultiplymorethantwo&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CalculatorTest" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Gradle.CalculatorTest.Testmultiply" />
+        <item itemvalue="Gradle.CalculatorTest.TestAddmorethentwo" />
+        <item itemvalue="Gradle.CalculatorTest.TestAdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fb7cd03-35eb-4caf-8f0a-9249162ceca8" name="Default Changelist" comment="" />
+      <created>1581681627773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581681627773</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="124" width="800" height="729" key="#Intentions" timestamp="1582630598558">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="348" y="124" width="800" height="729" key="#Intentions/67.27.1373.873@67.27.1373.873" timestamp="1582630598558" />
+    <state x="348" y="124" width="848" height="677" key="#Project_Structure" timestamp="1581681713317">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="348" y="124" width="848" height="677" key="#Project_Structure/67.27.1373.873@67.27.1373.873" timestamp="1581681713316" />
+    <state width="1327" height="232" key="GridCell.Tab.0.bottom" timestamp="1582631387845">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="232" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1582631387845" />
+    <state width="1327" height="232" key="GridCell.Tab.0.center" timestamp="1582631387845">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="232" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1582631387845" />
+    <state width="1327" height="232" key="GridCell.Tab.0.left" timestamp="1582631387845">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="232" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1582631387845" />
+    <state width="1327" height="232" key="GridCell.Tab.0.right" timestamp="1582631387845">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="232" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1582631387845" />
+    <state x="409" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1581925455495">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="409" y="290" key="com.intellij.ide.util.TipDialog/67.27.1373.873@67.27.1373.873" timestamp="1581925455495" />
+    <state x="449" y="81" width="598" height="762" key="refactoring.ChangeSignatureDialog" timestamp="1581685847653">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="449" y="81" width="598" height="762" key="refactoring.ChangeSignatureDialog/67.27.1373.873@67.27.1373.873" timestamp="1581685847653" />
+  </component>
+</project>
